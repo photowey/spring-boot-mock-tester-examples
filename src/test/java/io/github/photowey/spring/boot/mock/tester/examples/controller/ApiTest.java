@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package io.github.photowey.hello.swagger.controller;
+package io.github.photowey.spring.boot.mock.tester.examples.controller;
 
 import io.github.photowey.spring.boot.mock.tester.examples.App;
 import io.github.photowey.spring.boot.mock.tester.examples.LocalTest;
