@@ -1,2 +1,3 @@
 # spring-boot-mock-tester-examples
-It is a example project of spring-boot-mock-tester.
+
+It is an example project of spring-boot-mock-tester.
